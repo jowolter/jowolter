@@ -7,14 +7,7 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 --->
-:pencil2:  ***Feel free to contact me. I am always here ...***
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Joerg%20Wolters-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/joergwolters/)
-[![Mail](https://img.shields.io/badge/Email-jowolter@cisco.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:jowolter@cisco.com)
-<br>
 
-<h2 align='center'><samp><strong>Hi there 👋, I am Jörg Wolters</strong></samp></h2>
 <p align='center'>Technical Marketing Engineer | SAP Solutions | Cisco UCS Compute | Enterprise Storage</p>
 
 <p align='left'>As someone who is always passionate for learning more about tech and life, I love to develop infrastructure solutions for enterprise application workloads and ever since been a self taught software developer also unstopped learner. I have evolved into a technical career path, and loves working with cutting edge tools and technologies.</p>
