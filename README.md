@@ -28,7 +28,7 @@ Engineer specialized in **converged infrastructure development** using multiple 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
 ![YAML](https://img.shields.io/badge/yaml-000000?style=flat&logo=yaml&logoColor=151515&labelColor=ffffff)
 
-💻 **Operating Systems:** <br>
+💻 **Operating Systems and Applications:** <br>
 
 ![Cisco](https://img.shields.io/badge/Cisco-000000.svg?style=flat&logo=cisco&logoColor=black&labelColor=049fd9)
 ![SAP](https://img.shields.io/badge/SAP-000000?style=flat&logo=sap&logoColor=white&labelColor=0FAAFF)
